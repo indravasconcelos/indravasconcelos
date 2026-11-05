@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="./banner-profissional.png" width="100%" alt="Indra Lumia | Desenvolvedora Web"/>
-</div>
 
-<br/>
-
+<p align="center">
+  <img src="banner-profissional.png" width="100%" alt="Indra Lumia - Desenvolvedora Web">
+</p>
 
 ---
 
