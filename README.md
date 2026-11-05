@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="banner-profissional.png" width="100%" alt="Indra Lumia - Desenvolvedora Web">
+  <img src="https://raw.githubusercontent.com/indravasconcelos/indravasconcelos/main/banner-profissional.png" width="100%" alt="Indra Lumia - Desenvolvedora Web">
 </p>
-
----
 
 ### 🚀 Sobre mim
 
