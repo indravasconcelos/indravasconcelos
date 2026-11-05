@@ -1,4 +1,8 @@
-<img width="1983" height="793" alt="fe20d73f-c723-4ab3-be9b-a3a8047feab6" src="https://github.com/user-attachments/assets/52ad45c2-d89f-4859-95cb-4f4f7d512a90" />
+<div align="center">
+  <img src="./banner-profissional.png" width="100%" alt="Indra Lumia | Desenvolvedora Web"/>
+</div>
+
+<br/>
 
 
 ---
