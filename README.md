@@ -33,7 +33,7 @@
 - PostgreSQL
 - Supabase
 - APIs REST
-- Integração com APIs de Inteligência Artificial (Gemini e DeepSeek)
+- Integração com APIs de Inteligência Artificial
 
 **Ferramentas**
 - Git & GitHub
