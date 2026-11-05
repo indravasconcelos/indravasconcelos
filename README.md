@@ -5,27 +5,46 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Front-end em evolução constante  
-- 🎨 Foco em interfaces modernas e limpas  
-- 📱 Mobile-first sempre  
-- ⚡ Aprendendo e construindo projetos reais  
+- 💻 Desenvolvedora Web com foco em soluções modernas e funcionais
+- 🎨 Criação de interfaces responsivas, intuitivas e elegantes
+- 🤖 Desenvolvimento de projetos com integração de Inteligência Artificial
+- ⚙️ Construção de sites, landing pages e sistemas web
+- 📱 Design responsivo com abordagem Mobile First
+- 🚀 Aprendizado contínuo e desenvolvimento de projetos reais utilizando IA como ferramenta de produtividade
 
 ---
 
-### 🧠 Tech stack
+### 🧠 Tech Stack
 
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
-- Figma  
+**Linguagens e marcação**
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- Python (em aprendizado)
+
+**Front-end**
+- React
+- Design Responsivo
+- Mobile First
+
+**Banco de dados e integrações**
+- SQLite
+- PostgreSQL
+- Supabase
+- APIs REST
+- Integração com APIs de Inteligência Artificial (Gemini e DeepSeek)
+
+**Ferramentas**
+- Git & GitHub
+- VS Code
+- OpenCode
+- Figma
 
 ---
 
 ### 🎯 Objetivo
 
-Criar interfaces rápidas, bonitas e com identidade própria.
-
----
+Desenvolver soluções digitais que unam tecnologia, criatividade e inteligência artificial, transformando ideias em experiências digitais eficientes, acessíveis e funcionais.
 
 > “Código bom é o que parece simples, mas foi bem pensado.”
